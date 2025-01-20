@@ -1,0 +1,11 @@
+{
+    "name": "DALX",
+    "symbol": "DALX",
+    "description": "DALX Token on The Etherlink Network",
+    "decimals": 18,
+    "image": "",
+    "properties": {
+        "tokenContract": "0xF6Fde52fad0E4486b8a6361ac12D026535759403",
+        "network": "The Etherlink Network"
+    }
+} 
